@@ -1,2 +1,2 @@
-# GrupoVitagel
-Página Vitagel BETA
+# vitagel
+Empresa de productos de higiene y cuidados
